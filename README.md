@@ -17,6 +17,11 @@ This project analyzes multiple lunar datasets and recommends:
 The solution combines statistical analysis with graph algorithms to balance resource availability, terrain smoothness, and travel distance.
 
 ---
+📸 Preview
+
+<img width="1256" height="943" alt="Screenshot 2026-07-19 010620" src="https://github.com/user-attachments/assets/a6807422-f01a-467b-b999-da6eda77b376" />
+<img width="1055" height="481" alt="Screenshot 2026-07-19 010643" src="https://github.com/user-attachments/assets/9cfeeb7d-7d87-42fd-be38-4c3cf17a1132" />
+
 
 ## 🚀 Features
 
